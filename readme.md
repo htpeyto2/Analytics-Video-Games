@@ -1,0 +1,1 @@
+This the readME for the larger folder for when I expand to different Games to analyze in the future. For insights on the actaul findings go into one of the folders readmes'.
